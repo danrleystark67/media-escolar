@@ -1,0 +1,8 @@
+﻿A construção começou em 15:14...
+1>------ Compilação iniciada: Projeto: praticar, Configuração: Debug Any CPU ------
+1>Ignorando analisadores para acelerar a construção. Você pode executar o comando 'Build' ou 'Rebuild' para executar os analisadores.
+1>C:\Users\Pichau\OneDrive\Desktop\c#\praticar\praticar\Program.cs(5,11,5,18): warning CS8981: O nome do tipo 'program' contém apenas caracteres ascii em caixa baixa. Esses nomes podem ficar reservados para o idioma.
+1>praticar -> C:\Users\Pichau\OneDrive\Desktop\c#\praticar\praticar\bin\Debug\net9.0\praticar.dll
+1>Projeto de compilação pronto "praticar.csproj".
+========== Compilação: 1 bem-sucedida, 0 com falha, 0 atualizada, 0 ignorada ==========
+========== Compilação concluído às 15:14 e levou 00,310 segundos ==========
